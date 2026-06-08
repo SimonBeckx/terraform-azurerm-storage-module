@@ -1,0 +1,4 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "PLACEHOLDER: Deze repository wordt centraal beheerd door de DevOps orchestrator. Voeg hier eventuele repo-specifieke overrides toe."
+}
