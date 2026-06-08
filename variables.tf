@@ -44,5 +44,7 @@ variable "enable_versioning" {
 variable "tags" {
   description = "Tags to apply to the storage account"
   type        = map(string)
-  default     = {}
+  default     = {
+    deployment = "terraform"
+  }
 }
