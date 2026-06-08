@@ -46,5 +46,6 @@ variable "tags" {
   type        = map(string)
   default     = {
     deployment = "terraform"
+    owner      = "team-xyz"
   }
 }
